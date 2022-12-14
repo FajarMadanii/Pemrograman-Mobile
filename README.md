@@ -8,6 +8,10 @@
  
 ![image](https://user-images.githubusercontent.com/96230659/207589099-211730bb-d846-4cc4-9c71-3686d5887d44.png)
 
+Tampilan Set Time
+![image](https://user-images.githubusercontent.com/96230659/207589804-65fe866e-1a1f-4cd3-b4ad-77f0b21baef0.png)
+
+
 Tampilan Akhir
 
 ![image](https://user-images.githubusercontent.com/96230659/207589309-f1e75061-9a05-4c94-8902-63ed60343844.png)
